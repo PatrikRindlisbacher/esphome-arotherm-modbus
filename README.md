@@ -1,3 +1,5 @@
+Ich bekomme bald eine Wärmepumpe VWL 75/8.1 + VWZ AI und werde da mithelfen.
+
 # esphome-arotherm-modbus
 
 A passive ESP32/ESPHome component that sniffs the internal RS-485 link
