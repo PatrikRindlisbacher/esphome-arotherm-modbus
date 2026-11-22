@@ -1,8 +1,7 @@
 <img width="1595" height="475" alt="image" src="https://github.com/user-attachments/assets/aae475e5-d4a7-4c41-8f09-75b6cbae2668" />
 
 
-
-Ich bekomme bald eine Wärmepumpe VWL 75/8.1 + VWZ AI und werde da mithelfen.
+Artotherm VWL125/8.1 Modbus mit M5Stack Tough Display & Home Assistant
 
 # esphome-arotherm-modbus
 
